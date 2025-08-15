@@ -66,9 +66,9 @@ GeoPandas – Geospatial analysis
 
 🧑‍🤝‍🧑 Collaboration Guidelines
 
-Main Owner: Navneet Singh (creates the repository and maintains the main branch).
+Main Owner: Navneet Singh 
 
-Contributor (Partner): Forks the repo and sends Pull Requests (PRs) for merging.
+Partner : Sresth Yadav
 
 Branch Naming Convention:
 
